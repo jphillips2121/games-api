@@ -1,6 +1,6 @@
 # Games API 
 
-And API for creating, retrieving, updating, and deleting data for Video Games. 
+An API for creating, retrieving, updating, and deleting data for Video Games. 
 
 ## Requirements
 In order to run this API locally you will need to install the following: 
